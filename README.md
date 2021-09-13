@@ -13,11 +13,13 @@ This repo was created for OCBC (Singapore) HACK-IT! Hackathon submission.
 **Files:**
 - OCBC HACK-IT Assessment - Wes Ngoh.ipynb
 - Tableau Visualizations.twb
-- traffic_vol_by_date_v1.csv
-- traffic_vol_by_date_v2.csv
+- Insight_1a.png
+- Insight_1b.png
+- map.png
+- map_plotted.png
 - input
-  - dot_traffic_2015.txt.gz
-  - dot_traffic_stations_2015.txt.gz
+  - dot_traffic_2015.txt.gz (data source file is too big to be uploaded)
+  - dot_traffic_stations_2015.txt.gz (data source file is too big to be uploaded)
   - Holidays and Observances in United States in 2015.csv
   - bigquery-public-data-nhtsa_traffic_fatalities.csv
 
