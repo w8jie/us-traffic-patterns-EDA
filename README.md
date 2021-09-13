@@ -2,13 +2,15 @@
 
 This repo was created for OCBC (Singapore) HACK-IT! Hackathon submission.
 
-**Purpose:** In this data science project, I attempt to clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as future possible works after my analysis.
+**Objective:** In this data science project, I attempt to clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as possible furture works at the end of my analysis.
 
 **Contributor:** Wes Ngoh
 
 **How to use:** 
   1. Clone depository
-  2. Run Jupyter Notebook file and import all packages found in cell 1.
+  2. Run Jupyter Notebook file (OCBC HACK-IT Assessment - Wes Ngoh.ipynb)
+  3. Run all packages and pip install xgboost
+  4. **NOTE:** The two data source files were not uploaded in the git depo as the files were too large (input/dot_traffic_2015.txt.gz and input/dot_traffic_stations_2015.txt.gz)
 
 **Files:**
 - OCBC HACK-IT Assessment - Wes Ngoh.ipynb
@@ -24,7 +26,7 @@ This repo was created for OCBC (Singapore) HACK-IT! Hackathon submission.
   - bigquery-public-data-nhtsa_traffic_fatalities.csv
 
 **Technologies & Tools used:**
-  - Python 3.
+  - Python 3.6.12
   - Numpy, Pandas
   - Tableau
   - Matplotlib, Seaborn
