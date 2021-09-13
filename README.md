@@ -11,6 +11,10 @@ This repo was created for OCBC (Singapore) HACK-IT! Hackathon submission.
   2. Run Jupyter Notebook file and import all packages found in cell 1.
 
 **Files:**
+- OCBC HACK-IT Assessment - Wes Ngoh.ipynb
+- Tableau Visualizations.twb
+- traffic_vol_by_date_v1.csv
+- traffic_vol_by_date_v2.csv
 - input
   - dot_traffic_2015.txt.gz
   - dot_traffic_stations_2015.txt.gz
