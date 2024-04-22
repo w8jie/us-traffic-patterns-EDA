@@ -2,8 +2,6 @@
 
 **Objective:** In this project, I attempt to clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as possible furture works at the end of my analysis.
 
-**Contributor:** Wes Ngoh
-
 **How to use:** 
   1. Clone depository
   2. Run Jupyter Notebook file (OCBC HACK-IT Assessment - Wes Ngoh.ipynb)
