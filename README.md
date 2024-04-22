@@ -1,10 +1,10 @@
 # us-traffic-patterns-EDA
 
-**Objective:** In this project, I attempt to clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as possible furture works at the end of my analysis.
+**Objective:** In this project, I clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as possible furture works at the end of my analysis.
 
 **How to use:** 
   1. Clone depository
-  2. Run Jupyter Notebook file (OCBC HACK-IT Assessment - Wes Ngoh.ipynb)
+  2. Run Jupyter Notebook file (analysis.ipynb)
   3. Run all packages and pip install xgboost
   4. **NOTE:** The two data source files were not uploaded in the git depo as the files were too large (input/dot_traffic_2015.txt.gz and input/dot_traffic_stations_2015.txt.gz)
 
