@@ -2,6 +2,9 @@
 
 **Objective:** In this project, I clean, wrangle, model and visualise US traffic pattners from 2015, with the goal of gathering five different insightful patterns from the data source. I will also discuss my thought process as well as possible furture works at the end of my analysis.
 
+**Article:** Read more about it here: https://medium.com/towards-data-science/debunking-my-assumptions-on-traffic-data-328f6a38a772
+
+
 **How to use:** 
   1. Clone depository
   2. Run Jupyter Notebook file (analysis.ipynb)
